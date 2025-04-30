@@ -1,0 +1,342 @@
+The below are the top 5 most common parts of speech used in English:
+
+1) Noun
+2) Verb
+3) Adjective
+4) Adverb
+5) Pronoun
+
+1. Noun
+	Meaning: A noun is a word that names a person, place, thing, animal, feeling, idea, quality, event, or expression/state.
+
+	💡 A noun can name:
+	1. Person – e.g., teacher, doctor, Chiranjeevi
+	2. Place – e.g., Chennai, school, beach
+	3. Thing – e.g., pen, phone, chair
+	4. Animal – e.g., dog, tiger, elephant
+	5. Feeling – e.g., happiness, anger, fear
+	6. Idea – e.g., freedom, success, honesty
+	7. Quality – e.g., kindness, beauty, strength
+	8. Activity – e.g., running, dancing, reading
+	9. Event – e.g., birthday, festival, meeting
+	10. Expression/State – e.g., sleep, hunger, death
+
+	Examples:
+	1. Person – The doctor helped the patient recover quickly.
+	2. Place – We went to Chennai for our vacation.
+	3. Thing – He forgot his phone at home.
+	4. Animal – The tiger roared loudly in the forest.
+	5. Feeling – She was filled with happiness after winning the prize.
+	6. Idea – Honesty is always the best policy.
+	7. Quality – Her kindness touched everyone’s heart.
+	8. Activity – Dancing is her favorite hobby.
+	9. Event – We are planning a birthday surprise for him.
+	10. Expression/State – Sleep is essential for good health.
+
+2. Verb
+	Meaning: A verb is a word that describes an action, occurrence, or state of being.
+
+	💡 A verb can describe:
+	1. Action – e.g., run, jump, read
+	2. Occurrence – e.g., happen, appear, occur
+	3. State of Being – e.g., is, am, are, was, were
+
+	Examples:
+	1. Action – She ran across the field.
+	2. Action – They read the book in the library.
+	3. Occurrence – The event happened unexpectedly.
+	4. State of Being – He is a good student.
+	5. State of Being – They are happy with the results.
+
+3. Adjective
+	Meaning: An adjective is a word that describes or modifies a noun or pronoun by providing more information about its qualities, quantity, or state.
+
+	💡 An adjective can describe:
+	1. Quality – e.g., beautiful, strong, tall
+	2. Quantity – e.g., few, several, many
+	3. Size – e.g., small, large, huge
+	4. Color – e.g., red, blue, green
+	5. Shape – e.g., round, square, triangular
+	6. Age – e.g., old, new, young
+	7. Opinion – e.g., good, bad, excellent
+	8. Taste – e.g., sweet, sour, bitter
+	9. Texture – e.g., soft, rough, smooth
+	10. Time – e.g., daily, yearly, weekly
+
+	Examples:
+	1. Quality – She has a beautiful voice. (**beautiful**)  
+	2. Quantity – There are many students in the class. (**many**)  
+	3. Size – The huge elephant walked across the road. (**huge**)  
+	4. Color – The red car is parked outside. (**red**)  
+	5. Shape – He drew a round shape on the paper. (**round**)  
+	6. Age – That is a new phone. (**new**)  
+	7. Opinion – She gave an excellent performance. (**excellent**)  
+	8. Taste – The cake was sweet. (**sweet**)  
+	9. Texture – The fabric is soft to touch. (**soft**)  
+
+
+4. Adverb  
+	Meaning: An adverb is a word that modifies or describes a verb, adjective, or another adverb. It gives more information about how, when, where, why, or to what extent something happens.
+
+	💡 An adverb can describe:
+	1. Manner – e.g., quickly, slowly, carefully  
+	2. Time – e.g., now, soon, yesterday  
+	3. Place – e.g., here, there, everywhere  
+	4. Frequency – e.g., always, often, never  
+	5. Degree – e.g., very, quite, too  
+	6. Affirmation/Negation – e.g., yes, no  
+	7. Purpose – e.g., to, in order to  
+	8. Conjunction – e.g., however, therefore
+
+	Examples:
+
+	1. Manner – She ran quickly to catch the bus. (**quickly**)  
+	2. Time – We will leave soon. (**soon**)  
+	3. Place – The children are playing outside. (**outside**)  
+	4. Frequency – He always arrives early. (**always**)  
+	5. Degree – I’m feeling very tired today. (**very**)  
+	6. Affirmation/Negation – He said, "Yes," we can proceed. (**Yes**)  
+	7. Purpose – She studied to pass the exam. (**to pass**)  
+	8. Conjunction – However, we need to complete the task first. (**However**)
+
+5. Pronoun  
+	Meaning: A pronoun is a word that takes the place of a noun to avoid repetition. It can refer to people, things, or concepts that are already known or identified in the sentence.
+
+	💡 Pronouns can be used to replace:
+	1. Personal Pronouns – e.g., I, you, he, she, it, we, they
+	2. Possessive Pronouns – e.g., mine, yours, his, hers, ours, theirs
+	3. Reflexive Pronouns – e.g., myself, yourself, himself, herself, itself, ourselves, themselves
+	4. Relative Pronouns – e.g., who, whom, whose, which, that
+	5. Demonstrative Pronouns – e.g., this, that, these, those
+	6. Interrogative Pronouns – e.g., who, what, which, whose
+	7. Indefinite Pronouns – e.g., anyone, everyone, someone, none, all, some
+
+	Examples:
+	1. Personal Pronoun – He is my best friend.  
+	2. Possessive Pronoun – The book is mine.  
+	3. Reflexive Pronoun – She made the cake herself.  
+	4. Relative Pronoun – The person who called you is waiting.  
+	5. Demonstrative Pronoun – These are my favorite shoes.  
+	6. Interrogative Pronoun – What is your name?  
+	7. Indefinite Pronoun – Everyone enjoyed the party.
+****************************
+
+1. Indolent – Lazy
+   - Adjective
+   - Noun: Indolence
+   - Adverb: Indolently
+  
+	1. Adjective example (indolent):  
+	 Don’t let her join our team, as she is an indolent person.
+
+	2. Noun example (indolence):  
+	 The project got delayed because of her indolence.
+
+	Adverb example (indolently):
+	 The project got delayed because they did it indolently.
+*********************
+2. Swarthy – Having dark skin or complexion
+   - Adjective
+	I can easily recognize the thief, as he has a swarthy face.
+**************************
+3.Crafty–Cleverorcunning
+	-Adjective
+	-Noun:Craftiness
+	-Adverb:Craftily
+	-Verb:Craft
+
+
+	### ✅ **Adjective (crafty):**  
+	*I know him—he’s a crafty person.*
+
+	---
+
+	### ✅ **Noun (craftiness):**  
+	*We got this project because of her craftiness.*
+
+	---
+
+	### ✅ **Adverb (craftily):**  
+	*He handled the situation craftily during the meeting.*  
+	*(Alternative: During the meeting, he handled it very craftily.)*
+
+	---
+
+	### ✅ **Verb (craft):**  
+	*He is smart and crafts his work with skill.*  
+	*(Alternative: He crafts innovative solutions at work.)*
+*****************************************
+4. Stout – Having a strong, solid build
+   - Adjective
+   - Adverb: Stoutly
+   
+### ✅ **Adjective (stout):**  
+*If you want to become perfect at anything, you should have stout basics.*  
+
+
+### ✅ **Adjective (stout):**  
+*Stout knowledge of the basics is mandatory to become successful in any field.*  
+
+
+### ✅ **Adverb (stoutly):**  
+*He died because Ram hit him stoutly.* 
+   
+*****************************************   
+   
+5. Lanky – Tall and thin
+   - Adjective
+
+### ✅ **Adjective (Lanky):**     
+I met a lanky person who could easily lift hefty items
+*****************************************
+6. Bashful – Shy or feeling embarrassed
+   - Adjective
+   - Noun: Bashfulness
+   - Adverb: Bashfully
+   
+Adjective (bashful):	
+	 When I was a kid, I was bashful about giving a speech on stage
+
+Noun (bashfulness):
+	Bashfulness is common when we go for marriage alliances.
+	Because of her bashfulness, we felt embarrassed..
+
+Adverb (bashfully):
+	She was performing the dance bashfully
+*********************
+
+7. Hefty – Heavy
+   - Adjective
+   - Verb: Heft
+   - Noun: Heft
+   - Adverb: Heftily
+
+8. Chicken-hearted – Lacking courage
+   - Adjective
+
+9. Lionhearted – Brave
+   - Adjective
+
+10. Spendthrift – A person who spends money carelessly
+    - Noun
+    - Adjective
+
+11. Garrulous – Over-talkative
+    - Adjective
+    - Noun: Garrulity
+    - Adverb: Garrulously
+
+12. Candid – Straightforward / Truthful
+    - Adjective
+    - Adverb: Candidly
+    - Noun: Candor
+
+13. Clout – Power or influence
+    - Noun
+    - Verb
+
+14. Competent – Skilled
+    - Adjective
+    - Noun: Competence
+    - Adverb: Competently
+
+15. Confide – Sharing secrets with a trusted person
+    - Verb
+    - Noun: Confidence
+    - Adjective: Confident
+
+16. Self-conscious – Shy or feeling embarrassed
+    - Adjective
+    - Adverb: Self-consciously
+    - Noun: Self-consciousness
+
+17. Conscious – Aware or awake
+    - Adjective
+    - Adverb: Consciously
+    - Noun: Consciousness
+
+18. Frugal – Being careful when spending money
+    - Adjective
+    - Adverb: Frugally
+    - Noun: Frugality
+
+19. Dilemma – A confusion when choosing between options
+    - Noun
+
+20. Consensus – Overall agreement
+    - Noun
+
+21. Submissive – Obedient / Accepts others' control
+    - Adjective
+    - Noun: Submissiveness
+    - Adverb: Submissively
+
+22. Spooky – Scary
+    - Adjective
+    - Noun: Spook
+    - Adverb: Spookily
+
+23. Aloof – Not friendly / Keeps away from others
+    - Adjective
+    - Adverb: Aloofly
+    - Noun: Aloofness
+
+24. Procrastinate – Put off / delay
+    - Verb
+    - Noun: Procrastination
+    - Adjective: Procrastinating
+
+25. Meticulous – Very precise / careful
+    - Adjective
+    - Adverb: Meticulously
+    - Noun: Meticulousness
+
+26. Amicable – Friendly / Cordial
+    - Adjective
+    - Adverb: Amicably
+    - Noun: Amicability
+
+27. Pudgy – Chubby / Slightly fat but looks cute
+    - Adjective
+
+28. Potholes – Deep holes on the road caused by rain or traffic
+    - Noun
+
+29. Docile – Calm and easy to teach, control, or manage
+    - Adjective
+    - Noun: Docility
+    - Adverb: Docilely
+
+30. Extravagant – Spending too much / wasteful
+    - Adjective
+    - Adverb: Extravagantly
+    - Noun: Extravagance
+
+31. Ample – More than enough; abundant
+    - Adjective
+    - Adverb: Amply
+    - Noun: Ampleness
+
+32. Tattle – Tell someone’s secret or mistake
+    - Verb
+    - Noun: Tattler / Tattling
+
+33. Scribble – Write or draw messily
+    - Verb
+    - Noun: Scribble
+
+34. Stubborn – Refusing to change opinion or behavior
+    - Adjective
+    - Adverb: Stubbornly
+    - Noun: Stubbornness
+
+35. Dentures – Artificial teeth
+    - Noun
+
+36. Peeped – Looked quickly
+    - Verb
+    - Noun: Peep
+
+37. Relish – Great enjoyment
+    - Noun
+    - Verb
